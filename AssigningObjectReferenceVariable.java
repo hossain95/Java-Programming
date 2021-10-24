@@ -4,7 +4,7 @@ class Box
 	double height;
 	double depth;
 }
-public class Object
+public class AssigningObjectReferenceVariable
 {
 	public static void main(String[] args)
 	{
