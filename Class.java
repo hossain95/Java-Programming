@@ -14,7 +14,7 @@ class Box
 	double height;
 	double depth;
 }
-public class LearnClass
+public class Class
 {
 	
 	public static void main(String[] args)
