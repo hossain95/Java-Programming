@@ -4,7 +4,7 @@ class Box
 	double height;
 	double depth;
 }
-public class LearnObject
+public class Object
 {
 	public static void main(String[] args)
 	{
